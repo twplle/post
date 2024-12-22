@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Twapple</title>
+	<atom:link href="https://twplle.github.io/post/feed/" rel="self" type="application/rss+xml" />
+	<link>https://twplle.github.io/post</link>
+	<description>Daily Content Inbox</description>
+	<lastBuildDate>Sat, 30 Nov 2024 23:06:42 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://twplle.github.io/post/wp-content/uploads/2024/11/cropped-cropped-TwappleLogo_3-32x32.png</url>
+	<title>Twapple</title>
+	<link>https://twplle.github.io/post</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Nunflix: all your streaming favorites in one place</title>
+		<link>https://twplle.github.io/post/2024/11/29/nunflix-all-your-streaming-favorites-in-one-place/</link>
+					<comments>https://twplle.github.io/post/2024/11/29/nunflix-all-your-streaming-favorites-in-one-place/#respond</comments>
+		
+		<dc:creator><![CDATA[twapple]]></dc:creator>
+		<pubDate>Sat, 30 Nov 2024 01:18:35 +0000</pubDate>
+				<category><![CDATA[Original Content]]></category>
+		<category><![CDATA[Nunflix]]></category>
+		<category><![CDATA[oc]]></category>
+		<category><![CDATA[Streaming]]></category>
+		<guid isPermaLink="false">http://localhost/blog/?p=63</guid>
+
+					<description><![CDATA[Nunflix brings together a wide variety of movies, series, and documentaries from major streaming services like Netflix, Disney+, Max, AppleTV+, Prime, Hulu, plus Marvel, DC content and animes. The platform allows you to easily filter by streaming service and even add local subtitles if preferred.]]></description>
+		
+					<wfw:commentRss>https://twplle.github.io/post/2024/11/29/nunflix-all-your-streaming-favorites-in-one-place/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Stream movies and series with Catflix</title>
+		<link>https://twplle.github.io/post/2024/11/29/stream-movies-and-series-with-catflix/</link>
+					<comments>https://twplle.github.io/post/2024/11/29/stream-movies-and-series-with-catflix/#respond</comments>
+		
+		<dc:creator><![CDATA[twapple]]></dc:creator>
+		<pubDate>Sat, 30 Nov 2024 01:03:05 +0000</pubDate>
+				<category><![CDATA[Original Content]]></category>
+		<category><![CDATA[Catflix]]></category>
+		<category><![CDATA[Streaming]]></category>
+		<guid isPermaLink="false">http://localhost/blog/?p=52</guid>
+
+					<description><![CDATA[Catflix brings movies and series from various platforms to one place. Enjoy high quality streaming with optional subtitles. Registration isn’t required, but it’s helpful for saving your favorites. Catflix provides a vast library of content, ensuring a smooth and enjoyable streaming experience.]]></description>
+		
+					<wfw:commentRss>https://twplle.github.io/post/2024/11/29/stream-movies-and-series-with-catflix/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Stand for Android Freedom: Sign the Petition Against Custom ROM Restrictions</title>
+		<link>https://twplle.github.io/post/2024/11/29/35/</link>
+					<comments>https://twplle.github.io/post/2024/11/29/35/#respond</comments>
+		
+		<dc:creator><![CDATA[twapple]]></dc:creator>
+		<pubDate>Sat, 30 Nov 2024 00:43:38 +0000</pubDate>
+				<category><![CDATA[Highlight]]></category>
+		<guid isPermaLink="false">http://localhost/blog/?p=35</guid>
+
+					<description><![CDATA[Stop Google’s unfair restriction on Custom ROMs Google&#8217;s Play Integrity API blocks Custom ROM users from accessing essential apps and features, citing security as the reason. However, this policy unfairly impacts the Android modding community, which enhances devices through updates, bug fixes and customization long after manufacturers stop support. By enforcing these limitations, Google reinforces...]]></description>
+		
+					<wfw:commentRss>https://twplle.github.io/post/2024/11/29/35/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bad News for Spotify Mod Users</title>
+		<link>https://twplle.github.io/post/2024/11/29/bad-news-for-spotify-mod-users/</link>
+					<comments>https://twplle.github.io/post/2024/11/29/bad-news-for-spotify-mod-users/#respond</comments>
+		
+		<dc:creator><![CDATA[twapple]]></dc:creator>
+		<pubDate>Sat, 30 Nov 2024 00:31:23 +0000</pubDate>
+				<category><![CDATA[Highlight]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Twapple]]></category>
+		<guid isPermaLink="false">http://localhost/blog/?p=27</guid>
+
+					<description><![CDATA[It seems many Spotify mods have stopped working. Users report issues like playlists not loading and being unable to play music. Spotify is actively cracking down on modified apps. — via&#160;Twapple&#160;(Telegram) What’s Happening and What You Can Do If you’re using a modded version of Spotify, you may have noticed issues recently. Many users report...]]></description>
+		
+					<wfw:commentRss>https://twplle.github.io/post/2024/11/29/bad-news-for-spotify-mod-users/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Guide: Circle to Search on any Android</title>
+		<link>https://twplle.github.io/post/2024/11/29/guide-circle-to-search-on-any-android/</link>
+					<comments>https://twplle.github.io/post/2024/11/29/guide-circle-to-search-on-any-android/#respond</comments>
+		
+		<dc:creator><![CDATA[twapple]]></dc:creator>
+		<pubDate>Fri, 29 Nov 2024 21:05:10 +0000</pubDate>
+				<category><![CDATA[Original Content]]></category>
+		<category><![CDATA[oc]]></category>
+		<guid isPermaLink="false">http://localhost/blog/?p=11</guid>
+
+					<description><![CDATA[This tutorial is part of Twapple’s Original Content &#124;&#160;See the Post The guide, the step-by-step process, is entirely up to you. You can just use Circle to Search without following all these steps. Add the shortcut to your control center or quick settings. Is it more clicks? Yes! But it’s your choice. Step 1: Getting...]]></description>
+		
+					<wfw:commentRss>https://twplle.github.io/post/2024/11/29/guide-circle-to-search-on-any-android/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Get 3 months of Spotify Premium free with Opera</title>
+		<link>https://twplle.github.io/post/2024/11/29/ola-mundo/</link>
+					<comments>https://twplle.github.io/post/2024/11/29/ola-mundo/#respond</comments>
+		
+		<dc:creator><![CDATA[twapple]]></dc:creator>
+		<pubDate>Fri, 29 Nov 2024 20:46:49 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Twapple]]></category>
+		<category><![CDATA[Opera]]></category>
+		<category><![CDATA[Spotify]]></category>
+		<guid isPermaLink="false">http://localhost/blog/?p=1</guid>
+
+					<description><![CDATA[Opera is giving new and returning users a fantastic perk: 3 months of Spotify Premium for free. With its built-in Music Player feature, Opera streamlines access to services like Spotify, YouTube Music and more, letting you control playback directly from the browser sidebar, no need to switch tabs.]]></description>
+		
+					<wfw:commentRss>https://twplle.github.io/post/2024/11/29/ola-mundo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
